@@ -1,0 +1,28 @@
+{
+  "applications" : [
+      {
+        "name": "Flutter",
+        "type": "application/dac.native",
+        "id": "1235",
+        "uri": "http://192.168.1.112/ah212/com.libertyglobal.app.flutter_0.0.1_arm_linux_ah212_rdk2020Q4.tar.gz",
+        "icon": "/images/apps/App_Netflix_454x255.png",     
+	"version":"0.0.1"
+      },
+     {
+        "name": "Wayland-egl",
+        "icon": "/images/apps/App_Netflix_454x255.png",  
+        "uri": "http://192.168.1.112/ah212/com.libertyglobal.app.waylandegltest_3.2.1_arm_linux_ah212_rdk2020Q4.tar.gz",
+        "type": "application/dac.native",
+        "id": "1236",
+        "version": "3.2.1"
+    },
+    {
+        "name": "Youi",
+        "type": "application/dac.native",
+        "id": "1234",
+        "uri": "http://192.168.1.112/ah212/com.libertyglobal.app.youi_1.2.3_arm_linux_ah212_rdk2020Q4.tar.gz",
+        "icon": "/images/apps/App_YouTube_454x255.png",
+	"version" :"1.0.0"
+      }
+   ]
+}
